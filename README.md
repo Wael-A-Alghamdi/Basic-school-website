@@ -22,6 +22,7 @@ html-pages/
 
 
 images/
+
 ├── head.jpg               
 
 ├── ban1.jpg              
@@ -32,6 +33,7 @@ images/
 
 
 scripts/
+
 └── script.js            
 
 
