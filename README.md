@@ -7,32 +7,32 @@ This is a basic front-end project for a school website. No frameworks, no backen
 
 css/
 
-└── styles.css              # Custom stylesheet for the website
+└── styles.css           
 
 
 html-pages/
 
-├── index.html              # Home page with login form
+├── index.html           
 
-├── AboutUs.html            # Info page about the school
+├── AboutUs.html           
 
-├── SchoolDay.html          # Daily schedule overview
+├── SchoolDay.html          
 
-└── Feedback.html           # Feedback form page with basic input fields
+└── Feedback.html          
 
 
 images/
-├── head.jpg                # Header/banner image
+├── head.jpg               
 
-├── ban1.jpg                # Banner image 1
+├── ban1.jpg              
 
-├── ban2.jpg                # Banner image 2
+├── ban2.jpg                
 
-└── ban3.jpg                # Banner image 3
+└── ban3.jpg              
 
 
 scripts/
-└── script.js               # JavaScript for form validation and interactivity
+└── script.js            
 
 
 ## 🔧 Tech Used
