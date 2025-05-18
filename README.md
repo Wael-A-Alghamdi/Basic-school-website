@@ -1,6 +1,6 @@
 # Basic School Website
 
-This is a basic front-end project for a school website. No frameworks, no backend, just raw HTML, CSS, and vanilla JavaScript. Created a while ago, mostly for practice or a class project.
+This is a basic front-end project for a school website. No frameworks, no backend, just raw HTML, CSS, and vanilla JavaScript. Created for practice.
 
 
 ## 🔧 Tech Used
