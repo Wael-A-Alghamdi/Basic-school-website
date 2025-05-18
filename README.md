@@ -9,6 +9,7 @@ css/
 
 └── styles.css              # Custom stylesheet for the website
 
+
 html-pages/
 
 ├── index.html              # Home page with login form
@@ -19,6 +20,7 @@ html-pages/
 
 └── Feedback.html           # Feedback form page with basic input fields
 
+
 images/
 ├── head.jpg                # Header/banner image
 
@@ -27,6 +29,7 @@ images/
 ├── ban2.jpg                # Banner image 2
 
 └── ban3.jpg                # Banner image 3
+
 
 scripts/
 └── script.js               # JavaScript for form validation and interactivity
